@@ -1,1 +1,1 @@
-# coding-project-template
+Company Budget Allocation App using React.js
